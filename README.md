@@ -162,8 +162,7 @@ streamlit run app.py
 
 ```
 solution/
-  app.py
-  requirements.txt
+  src/
   README.md
   data/
   output/
